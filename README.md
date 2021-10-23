@@ -8,5 +8,6 @@
 
 
 # How can I download it
+ [Pre-release v0.0.1-beta.2](https://github.com/Cloudwhile/IO-WINAPI32/releases/tag/v0.0.1-beta.2)
 
   
